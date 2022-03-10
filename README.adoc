@@ -1,0 +1,49 @@
+// Document attributes
+:author: Hugh Campbell
+:email: hcampbell@riotgames.com
+
+:experimental:
+:idprefix:
+:idseparator: -
+ifndef::env-github[:icons: font]
+ifdef::env-github,env-browser[]
+:toc: macro
+:toclevels: 1
+endif::[]
+ifdef::env-github[]
+:status:
+:!toc-title: Table of Contents
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+
+// :sectnums: 5
+
+// include::document-vars.adoc[]
+
+:imagesdir: images/
+:toc: 1
+:toclevels: 6
+:toc-title: Table of Contents
+:sectnums: 8
+
+:source-highlighter: rouge
+
+:icons: font
+
+// :tip-caption: 💡
+// :caution-caption: ⚠️
+// :warning-caption: 🚨
+// :note-caption: 📝
+// :important-caption: ❗
+
+:revnumber: v1.0
+:revdate: {docdate}
+:revremark: First Draft
+
+= *Open Source 101 Reading List and Source Reference*
+
+== *Introduction*
