@@ -47,3 +47,13 @@ endif::[]
 = *Open Source 101 Reading List and Source Reference*
 
 == *Introduction*
+
+== *AWS Documentation*
+
+== *Cloud Infrastructure Management*
+
+== *Cloud Infrastructure Security*
+
+== *Articles on Open Source Software*
+
+== *Blog Articles Used*
